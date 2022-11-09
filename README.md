@@ -29,12 +29,12 @@ To display alert use <code>ADialog.show()</code> and define the <code>type</code
 Here are some screenshots of the **ADialog** Dialogs.
 
 <p align="center">
-<img src="https://drive.google.com/file/d/1IMn_de3NXL82L9NZniWXkxRq_UtLaJIb/view?usp=share_link" width="49%">
-<img src="https://drive.google.com/file/d/1eatwBu5qHiF7jO1WCSRPtD8QdZHNB7Qf/view?usp=share_link" width="49%">
-<img src="https://drive.google.com/file/d/1Ga0uUrCMcBbOL1EvIYkaYqGIXSiNacCc/view?usp=share_link" width="49%">
-<img src="https://drive.google.com/file/d/1xHd1QHh3sLKodYyG80Ns4M6bkLTldDaK/view?usp=share_link" width="49%">
-<img src="https://drive.google.com/file/d/1S2RT_pcenwhkGN8OWtLjyTkj9ilyxYy9/view?usp=share_link" width="49%">
-<img src="https://drive.google.com/file/d/1w8t_bpyY_HzRpTICCMvQqsJirPh-RTdt/view?usp=share_link" width="49%">
+<img src="https://raw.githubusercontent.com/Mohamed-Nagdy/a_dialog/main/screenshots/info.png" width="49%">
+<img src="https://raw.githubusercontent.com/Mohamed-Nagdy/a_dialog/main/screenshots/error.png" width="49%">
+<img src="https://raw.githubusercontent.com/Mohamed-Nagdy/a_dialog/main/screenshots/loading.png" width="49%">
+<img src="https://raw.githubusercontent.com/Mohamed-Nagdy/a_dialog/main/screenshots/notify.png" width="49%">
+<img src="https://raw.githubusercontent.com/Mohamed-Nagdy/a_dialog/main/screenshots/success.png" width="49%">
+<img src="https://raw.githubusercontent.com/Mohamed-Nagdy/a_dialog/main/screenshots/warning.png" width="49%">
 </p>
 
 *An instantly ready, full-featured alerts for development on any platform with flutter. Enabling you to complete projects and deploy quickly. With **ADialog**, you can display animated alert dialogs such as success, error, warning, Notify, loading or even a custom dialog.*
