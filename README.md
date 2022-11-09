@@ -20,7 +20,9 @@ import 'package:a_dialog/utils/a_dialog_controller.dart';
 
 To display alert use <code>ADialog.show()</code> and define the <code>type</code> of alert.
 
-## Screenshots ✨
+## Video ✨
+
+https://user-images.githubusercontent.com/36416594/200963766-11d3d362-1895-4ab5-9feb-cf04b5c06c36.mov
 
 Here are some screenshots of the **ADialog** Dialogs.
 
