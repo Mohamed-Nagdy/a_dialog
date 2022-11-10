@@ -22,7 +22,7 @@ To display alert use <code>ADialog.show()</code> and define the <code>type</code
 
 ## Video ✨
 
-<video src="https://drive.google.com/file/d/1EAXct_cCpqP8yWo_mN7h0M8AmDzRmOfB/view?usp=share_link" autoplay>
+<video src="https://github.com/Mohamed-Nagdy/a_dialog/blob/main/screenshots/video.mov?raw=true" autoplay>
   Video
 </video>
 
