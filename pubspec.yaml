@@ -1,6 +1,6 @@
 name: a_dialog
 description: A Dialog Package Is For Show Awesome Dialogs With Simple Lines Of Code 
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/Mohamed-Nagdy/a_dialog
 
 environment:
@@ -8,10 +8,10 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  vector_math: ^2.1.4
   flutter:
     sdk: flutter
-
+  vector_math: ^2.1.2
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter
