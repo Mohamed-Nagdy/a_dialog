@@ -21,6 +21,7 @@ import 'package:a_dialog/utils/a_dialog_controller.dart';
 To display alert use <code>ADialog.show()</code> and define the <code>type</code> of alert.
 
 ## Video ✨
+https://github.com/Mohamed-Nagdy/a_dialog/blob/main/screenshots/video.mov?raw=true
 
 <video src="https://github.com/Mohamed-Nagdy/a_dialog/blob/main/screenshots/video.mov?raw=true" autoplay>
   Video
